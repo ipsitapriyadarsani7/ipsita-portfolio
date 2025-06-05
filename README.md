@@ -1,1 +1,1 @@
-# ipsita-portfolio
+Repository for showcasing portfolio
